@@ -1,17 +1,6 @@
 # TCP Socket Chat Application
 A simple real-time chat application built with Python using TCP sockets that enables two users to communicate over a network connection.
 
-# Table of Contents
-Overview
-Features
-Prerequisites
-Installation
-Usage
-Technical Details
-Project Structure
-Contributing
-Author
-
 ## Overview
 This project implements a basic client-server chat system using Python's socket programming. It demonstrates fundamental networking concepts including TCP/IP communication, client-server architecture, and real-time bidirectional messaging.
 
